@@ -2,7 +2,7 @@
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me amarimon2158@gmail.com
+- 📫 How to reach me ...
 
 <!---
 Biohacker777/Biohacker777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
