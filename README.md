@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Biohacker777
-- 👀 I’m interested in bioinformatics
+- 👀 I’m interested in bioinformatics, data science, frontend. 
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
